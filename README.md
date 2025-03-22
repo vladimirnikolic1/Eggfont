@@ -1,6 +1,6 @@
 # Eggfont
 
-![Image](docs/image_1.png)
+![Image](docs/img1.png)
 
 ## Variable Font Axe
 
