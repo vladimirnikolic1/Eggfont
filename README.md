@@ -4,7 +4,7 @@
 
 ## Variable Font Axe
 
-Angelica has the following axe:
+Eggfont has the following axe:
 
   Tag | Default | Static Instances
 --- | --- | ---
