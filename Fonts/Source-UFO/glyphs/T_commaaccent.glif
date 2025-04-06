@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="416"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="190" y="446" type="qcurve" smooth="yes"/>
+      <point x="190" y="505" type="line" smooth="yes"/>
+      <point x="190" y="535"/>
+      <point x="160" y="535" type="qcurve" smooth="yes"/>
+      <point x="12" y="535" type="line"/>
+      <point x="12" y="684" type="line"/>
+      <point x="131" y="684" type="line"/>
+      <point x="160" y="684" type="line"/>
+      <point x="250" y="684" type="line"/>
+      <point x="279" y="684" type="line"/>
+      <point x="398" y="684" type="line"/>
+      <point x="398" y="535" type="line"/>
+      <point x="279" y="535" type="line"/>
+      <point x="279" y="416" type="line"/>
+      <point x="279" y="267" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="131" y="386" type="line" smooth="yes"/>
+      <point x="131" y="416"/>
+      <point x="160" y="416" type="qcurve" smooth="yes"/>
+      <point x="190" y="416"/>
+    </contour>
+    <contour>
+      <point x="265" y="-48" type="line"/>
+      <point x="265" y="-226" type="line"/>
+      <point x="145" y="-226" type="line"/>
+      <point x="145" y="-48" type="line"/>
+    </contour>
+  </outline>
+</glyph>
