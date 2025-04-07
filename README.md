@@ -2,6 +2,8 @@
 
 ![Image](docs/img_1.png)
 
+An egg is an organic vessel grown by an animal to carry a possibly fertilized egg cell (a zygote) and to incubate from it an embryo within the egg until the embryo has become an animal fetus that can survive on its own, at which point the animal hatches.
+
 ## Variable Font Axe
 
 Eggfont has the following axe:
